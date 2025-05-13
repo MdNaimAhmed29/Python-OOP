@@ -1,3 +1,7 @@
+import datetime
+
+print(datetime.datetime.now())
+
 x = 5
 
 print(type(x))
